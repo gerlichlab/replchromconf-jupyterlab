@@ -3,10 +3,9 @@ prefix: /srv/jupyter
 channels:
   - conda-forge
 dependencies:
-  - jupyterlab=3.4.0
+  - jupyterlab==4.3.*
     # due to https://github.com/jupyterhub/jupyterhub/pull/4039
-  - jupyterhub-singleuser=2.3.0
+  - jupyterhub-singleuser==5.*
   - pip:
       - batchspawner==1.1.0
-  # add your own plugins here
-...
+  - anywidget==0.9.*
