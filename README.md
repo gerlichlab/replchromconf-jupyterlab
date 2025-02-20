@@ -2,7 +2,7 @@
 
 ## Try me out
 Try me out with Binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmitrymyl/clip-jupyterlab-custom/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gerlichlab/clip-jupyterlab-minimal/HEAD)
 
 ## Perks
 * anywidget
