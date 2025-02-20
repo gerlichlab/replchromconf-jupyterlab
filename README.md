@@ -6,3 +6,4 @@ Try me out with Binder:
 
 ## Perks
 * anywidget
+* nb_conda_kernels
