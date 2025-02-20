@@ -9,3 +9,4 @@ dependencies:
   - pip:
       - batchspawner==1.1.0
   - anywidget==0.9.*
+  - nb_conda_kernels==2.5.*
