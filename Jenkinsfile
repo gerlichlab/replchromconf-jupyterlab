@@ -1,7 +1,7 @@
 
 buildRepo2Docker([
-  imageName: 'jupyter-minimal-conda',
-  pushRegistryNamespace: 'clip'
+  imageName: 'jupyter-minimal-conda-v0.1',
+  pushRegistryNamespace: 'gerlichlab'
 ])
 
 
