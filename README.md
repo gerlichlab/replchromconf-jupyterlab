@@ -13,3 +13,5 @@ Try me out with Binder:
 Original [environment.yml](https://github.com/jupyterhub/repo2docker/blob/HEAD/repo2docker/buildpacks/conda/environment.yml) file. The `environment.yml` file in this repo is used after the original one.
 
 Singularity image URL: https://singularity.vbc.ac.at/v1/imagefile/library/gerlichlab/jupyter-minimal-conda-v0.1:master
+
+And the cached location: `/groups/gerlich/labinfo/Methods/singularity_images/gerlichlab-jupyter-minimal-conda-v0.1_master.sif`
