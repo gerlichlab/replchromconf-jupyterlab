@@ -11,3 +11,5 @@ dependencies:
   - batchspawner==1.3.*
   - anywidget==0.9.*
   - nb_conda_kernels==2.5.*
+  - pip:
+    - jupyterlab-materialdarker==0.7.1

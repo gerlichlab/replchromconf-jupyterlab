@@ -7,3 +7,7 @@ Try me out with Binder:
 ## Perks
 * anywidget
 * nb_conda_kernels
+* jupyterlab_materialdarker theme
+
+## Info
+Original [environment.yml](https://github.com/jupyterhub/repo2docker/blob/HEAD/repo2docker/buildpacks/conda/environment.yml) file. The `environment.yml` file in this repo is used after the original one.
