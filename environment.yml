@@ -37,3 +37,4 @@ dependencies:
   - pip:
     - jupyterlab-materialdarker==0.7.1
     - pairtools==1.1.0
+    - git+https://github.com/cchlanger/cooler_ontad.git
