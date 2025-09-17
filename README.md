@@ -12,6 +12,6 @@ Try me out with Binder:
 ## Info
 Original [environment.yml](https://github.com/jupyterhub/repo2docker/blob/HEAD/repo2docker/buildpacks/conda/environment.yml) file. The `environment.yml` file in this repo is used after the original one.
 
-Singularity image URL: ...
+[Singularity image URL](https://singularity.vbc.ac.at/containers/1680).
 
-And the cached location: `/groups/gerlich/labinfo/Methods/singularity_images/...`
+And the cached location: `/groups/gerlich/labinfo/Methods/singularity_images/gerlichlab-replchromconf-jupyter-v0.1_master.sif`
