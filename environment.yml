@@ -5,7 +5,7 @@ channels:
   - bioconda
 dependencies:
   - python==3.11.*
-  - jupyterlab==4.3.*
+  - jupyterlab==4.5.0b0
     # due to https://github.com/jupyterhub/jupyterhub/pull/4039
   - jupyterhub==5.*
   - jupyterhub-singleuser==5.*
