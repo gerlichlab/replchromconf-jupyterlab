@@ -2,6 +2,7 @@ name: jupyter
 prefix: /srv/jupyter
 channels:
   - conda-forge
+  - conda-forge/label/jupyterlab_beta
   - bioconda
 dependencies:
   - python==3.11.*
