@@ -2,11 +2,10 @@ name: jupyter
 prefix: /srv/jupyter
 channels:
   - conda-forge
-  - conda-forge/label/jupyterlab_rc
   - bioconda
 dependencies:
   - python==3.11.*
-  - jupyterlab==4.5.0rc0
+  - jupyterlab==4.5.0
     # due to https://github.com/jupyterhub/jupyterhub/pull/4039
   - jupyterhub==5.*
   - jupyterhub-singleuser==5.*
@@ -27,7 +26,7 @@ dependencies:
   - pyarrow
   - openpyxl
   - scipy==1.16.*
-  - bioframe==0.7.2
+  - bioframe==0.8.0
   - pybbi==0.4.*
   - pybigtools==0.2.*
   - cooler=0.10.*
