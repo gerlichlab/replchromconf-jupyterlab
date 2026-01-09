@@ -5,7 +5,7 @@ Try me out with Binder:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gerlichlab/replchromconf-jupyterlab/HEAD)
 
 ## Perks
-* All necessary packages preinstalled
+* All necessary packages preinstalled (except for OnTAD)
 * anywidget
 * jupyterlab_materialdarker theme
 
@@ -14,4 +14,4 @@ Original [environment.yml](https://github.com/jupyterhub/repo2docker/blob/HEAD/r
 
 [Singularity image URL](https://singularity.vbc.ac.at/containers/1680).
 
-And the cached location: `/groups/gerlich/labinfo/Methods/singularity_images/gerlichlab-replchromconf-jupyter-v0.1_master.sif`
+Built images are available at: `/groups/gerlich/labinfo/Methods/singularity_images/`

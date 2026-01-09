@@ -1,6 +1,6 @@
 
 buildRepo2Docker([
-  imageName: 'replchromconf-jupyter-v0.1',
+  imageName: 'replchromconf-jupyter-v0.2',
   pushRegistryNamespace: 'gerlichlab'
 ])
 
